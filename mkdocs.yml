@@ -1,6 +1,10 @@
-site_name: My Docs
+site_name: 宇宙白皮书
 theme:
   name: material
+  logo: assets/favicon.png
+  favicon: assets/favicon.png
+  icon:
+    repo: fontawesome/brands/github
   palette: 
     - primary: white
       accent: light blue
@@ -13,3 +17,8 @@ theme:
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
+repo_url: https://github.com/mmdjiji/universe-white-book
+repo_name: mmdjiji/universe-white-book
+extra:
+  homepage: https://mmdjiji.github.io/universe-white-book/
+copyright: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

@@ -1,62 +1,7 @@
-# Welcome to use MkDocs Template
+# 宇宙白皮书
 
-GitHub: [mmdjiji/mkdocs-template](https://github.com/mmdjiji/mkdocs-template)
+GitHub: [mmdjiji/universe-white-book](https://github.com/mmdjiji/universe-white-book)
 
-A template of mkdocs by [JiJi](https://mmdjiji.com), for full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Continuous Deployment
-This repository uses GitHub Actions for continuous deployment. You don't need to build your documents manually. Just commit your documents (then run `git push`), and then turn on the GitHub Pages in the settings to access your online documents. (For this demo is [https://mmdjiji.github.io/mkdocs-template](https://mmdjiji.github.io/mkdocs-template))
-
-## Commands
-
-* `pip install -r requirements.txt` - Install requirements before use
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-```bash
-mkdocs.yml     # The configuration file.
-.github/
-    workflows/ # For the GitHub Actions
-docs/
-    index.md   # The documentation homepage.
-    ...        # Other markdown pages, images and other files.
-```
-
-## Themes
-You can use the following code (add them to `mkdocs.yml`) to change your theme (default: `mkdocs`):
-```yaml
-theme:
-  name: mkdocs
-```
-
-There are many choices for you:
-
-|theme's name|
-|-|
-|mkdocs|
-|readthedocs|
-|material|
-
-Of course, I would like to use `material` theme because of its simple and elegant, here is my configuration:
-```yaml
-theme:
-  name: material
-  palette: 
-    - primary: white
-      accent: light blue
-      toggle:
-        icon: material/lightbulb-off-outline 
-        name: Switch to dark mode
-    - primary: black
-      accent: light blue
-      scheme: slate
-      toggle:
-        icon: material/lightbulb
-        name: Switch to light mode
-```
 
 ## License
-Follow [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs), use [BSD-2-Clause](LICENSE).
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
