@@ -6,7 +6,7 @@
 
 我们所处的宇宙最底层的运行理论
 
-<a href="https://mmdjiji.github.io/universe-white-paper/"><img src="https://shields.io/badge/Read-Now-blue?style=for-the-badge&color=blue" /></a> &nbsp; 
+<a href="https://jiji.pro/universe-white-paper/"><img src="https://shields.io/badge/Read-Now-blue?style=for-the-badge&color=blue" /></a> &nbsp; 
 <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://shields.io/badge/License-BY--NC--SA--4.0-white?style=for-the-badge&color=green"></a>
 
 GitHub: <a href="https://github.com/mmdjiji/universe-white-paper">mmdjiji/universe-white-paper</a>
@@ -36,7 +36,7 @@ GitHub: <a href="https://github.com/mmdjiji/universe-white-paper">mmdjiji/univer
 * BTC: 17WGacfA1Q4Wa1Rf3zN7SBc9NTNHU1Mskk
 * ETH: 0x2553FB2cf09b8d9E32c300B77e122Cd9b96c7A96
 
-联系方式: i@mmdjiji.com，如有保密需求可下载 [PGP](https://jiji.pro/pgp.asc)。
+联系方式: i@mmdjiji.com，如有保密需求可下载 [PGP](https://jiji.pro/mmdjiji/pgp.asc)。
 
 
 ## 版权声明
