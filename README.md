@@ -29,7 +29,7 @@ GitHub: <a href="https://github.com/mmdjiji/universe-white-paper">mmdjiji/univer
 
 ## 关于作者
 
-吉吉，[Home University](https://hmu.ac.cn) 硕士毕业，目前留校担任 [St. Linus](https://github.com/orgs/HMUniversity/teams/st-linus-college) 学院教授，担任 *Home University Journal* 审稿人。个人博客: https://mmdjiji.com，GitHub: https://github.com/mmdjiji。我很可爱（喜欢白丝的人又能有几个不可爱的呢），请给我点Star并Follow。
+吉吉，[Home University](https://hmu.ac.cn) 硕士毕业，目前留校担任 [St. Linus](https://github.com/orgs/HMUniversity/teams/st-linus-college) 学院教授，担任 *Home University Journal* 审稿人。个人博客: [https://mmdjiji.com](https://mmdjiji.com)，GitHub: [https://github.com/mmdjiji](https://github.com/mmdjiji)。我很可爱（喜欢白丝的人又能有几个不可爱的呢），请给我点Star并Follow。
 
 我很可爱，请给我钱：
 
