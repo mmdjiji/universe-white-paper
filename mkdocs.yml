@@ -32,10 +32,10 @@ theme:
     - search.suggest
     # - toc.integrate
     - content.code.annotate
-repo_url: https://github.com/mmdjiji/universe-white-book
-repo_name: mmdjiji/universe-white-book
+repo_url: https://github.com/mmdjiji/universe-white-paper
+repo_name: mmdjiji/universe-white-paper
 extra:
-  homepage: https://mmdjiji.github.io/universe-white-book/
+  homepage: https://mmdjiji.github.io/universe-white-paper/
 copyright: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 markdown_extensions:
   - admonition              # 提示块
@@ -60,3 +60,8 @@ markdown_extensions:
   - pymdownx.magiclink      # 自动识别超链接
   - pymdownx.tasklist:      # 复选框checklist
       custom_checkbox: true
+nav:
+  - '绪论': 'index.md'
+  - '嵌套宇宙理论':
+    - '理论': '嵌套宇宙理论/index.md'
+    
