@@ -32,6 +32,7 @@ theme:
     - search.suggest
     # - toc.integrate
     - content.code.annotate
+edit_uri: edit/main/docs/
 repo_url: https://github.com/mmdjiji/universe-white-paper
 repo_name: mmdjiji/universe-white-paper
 extra:
