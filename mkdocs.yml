@@ -55,14 +55,21 @@ markdown_extensions:
       linenums: true
   - toc:                    # 锚点
       permalink: true
-  - pymdownx.arithmatex     # 数学公式
+  - pymdownx.arithmatex:    # 数学公式
+      generic: true
   - pymdownx.betterem:      # 对加粗和斜体更好的检测
       smart_enable: all
   - pymdownx.magiclink      # 自动识别超链接
   - pymdownx.tasklist:      # 复选框checklist
       custom_checkbox: true
+extra_javascript:
+  - mathjax/config.js
+  - mathjax/tex-mml-chtml.js
+
 nav:
   - '绪论': 'index.md'
   - '嵌套宇宙理论':
-    - '理论': '嵌套宇宙理论/index.md'
+    - '基础概念': 'universe/basic.md'
+    - '宇宙及宇宙定律': 'universe/index.md'
+    - '解释与讨论': 'universe/discussion.md'
     

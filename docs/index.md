@@ -17,7 +17,8 @@ GitHub: [mmdjiji/universe-white-paper](https://github.com/mmdjiji/universe-white
 
 宇宙白皮书是我们对于所处宇宙底层运行理论的研究与分析。本书将介绍一个我提出的宇宙观模型，虽然这种模型根本无法用实验证实，但或多或少是有些道理的。的确，知道了这些理论又能怎么样呢？只能满足自己的好奇心，因此当成科幻小说来阅读将是最好的欣赏。
 
-> 所谓科幻小说家，就是研究现在的宇宙，并提出了颠覆性的观点，但又不想被别人看成是疯子，于是写成小说以启示后人。而科学家，便是直视了这些颠覆性的观点，认为它们无不道理，展开激烈的证明与证伪，所以才会有人认为科学家是疯子。——吉吉
+!!!important
+    所谓科幻小说家，就是研究现在的宇宙，并提出了颠覆性的观点，但又不想被别人看成是疯子，于是写成小说以启示后人。而科学家，便是直视了这些颠覆性的观点，认为它们无不道理，展开激烈的证明与证伪，所以才会有人认为科学家是疯子。——吉吉
 
 ## 宇宙起源
 
@@ -29,7 +30,7 @@ GitHub: [mmdjiji/universe-white-paper](https://github.com/mmdjiji/universe-white
 
 ## 关于作者
 
-吉吉，[Home University](https://hmu.ac.cn) 硕士毕业，目前留校担任 [St. Linus](https://github.com/orgs/HMUniversity/teams/st-linus-college) 学院教授，担任 *Home University Journal* 审稿人。个人博客: https://mmdjiji.com，GitHub: https://github.com/mmdjiji。我很可爱（喜欢白丝的人又能有几个不可爱的呢），请给我点Star并Follow。
+吉吉，[Home University](https://hmu.ac.cn) 博士毕业，目前留校担任 [St. Linus](https://github.com/orgs/HMUniversity/teams/st-linus-college) 学院教授，担任 *Home University Journal* 审稿人。个人博客: https://mmdjiji.com，GitHub: https://github.com/mmdjiji。我很可爱（喜欢白丝的人又能有几个不可爱的呢），请给我点Star并Follow。
 
 我很可爱，请给我钱：
 
