@@ -35,7 +35,8 @@ GitHub: [mmdjiji/universe-white-paper](https://github.com/mmdjiji/universe-white
 我很可爱，请给我钱：
 
 * BTC: 17WGacfA1Q4Wa1Rf3zN7SBc9NTNHU1Mskk
-* ETH: 0x2553FB2cf09b8d9E32c300B77e122Cd9b96c7A96
+* ERC20: 0x2553FB2cf09b8d9E32c300B77e122Cd9b96c7A96
+* TRC20: TByE9376SvVUwhnvaFNhMcVyV7xFnoMQ9t
 
 联系方式: i@mmdjiji.com，如有保密需求可下载 [PGP](https://jiji.pro/mmdjiji/pgp.asc)。
 
